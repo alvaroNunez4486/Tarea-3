@@ -48,7 +48,7 @@ Arduino Esclavo
 |Pin TX | Pin RX del Arduino Maestro|
 |Pin RX | Pin TX del Arduino Maestro|
 
-![alt text](<Captura de pantalla 2026-11-10 165713.png>)
+<img width="1391" height="721" alt="Captura de pantalla 2026-11-10 165713" src="https://github.com/user-attachments/assets/b90f7863-525b-4ad8-a4ba-652660191b7a" />
 
 URL DEL REPOSITORIO DEL MAESTRO:
 https://github.com/alvaroNunez4486/Tarea-3.2
